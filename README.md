@@ -83,15 +83,15 @@ QA-BOT is an AI-powered solution for monitoring and evaluating customer service 
 ## 📌 Output Examples
 
 ### 📝 Real-Time Transcription Output
-![Real-Time Transcription](Output/live_inpuput.png)
+![Real-Time Transcription](Output/live_input.png)
 
 
 ### 📝 Audio File-Input Transcription Output
-![Audio File-Input Transcription 1](Output/file_inpuput.png)
+![Audio File-Input Transcription 1](Output/file_input.png)
 
 
 ### 📝 Audio File-Input Transcription Output
-![Audio File-Input Transcription 1](Output/file_inpuput2.png)
+![Audio File-Input Transcription 1](Output/file_input2.png)
 
 ---
 
