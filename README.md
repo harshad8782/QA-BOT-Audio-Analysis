@@ -1,21 +1,6 @@
-## **📌 Problem Statement**  
+## **QA-BOT: Real-Time Voice Agent Analysis** 🎙️  
 
 ### **Description**  
-Develop a QA-BOT that **analyzes and evaluates real-time performance** of voice agents by processing their interactions, identifying key metrics (**accuracy, sentiment, responsiveness**), and providing actionable insights to enhance **customer service quality**.  
-
-#### **Input**  
--  **Real-time audio** from customer interactions.  
--  **Call transcripts & metadata** (duration, sentiment, keywords).  
--  **Predefined performance metrics** (e.g., response time, tone, accuracy).  
-
-#### **Output**  
--  **Performance scores & insights** for each agent.  
--  **Alerts for critical issues** (e.g., negative sentiment, long pauses).  
-
----
-### **🔹 Required Solution**  
-# **QA-BOT: Real-Time Voice Agent Analysis** 🎙️  
-
 QA-BOT is an AI-powered solution for monitoring and evaluating customer service and BPO agent interactions in **real time**. It processes audio data, analyzes sentiment, detects profanity, evaluates tonality, and provides actionable insights to improve service quality.  
 
 ---
